@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <h1 align="center">Let's Connect 🔗</h1>
 <br>
 
-<div style="display: flex; justify-content:center;"> 
+<div align="center""> 
     
 <a href="mailto:uk.amanbisht@gmail.com"><img width="50px" alt="mail" height="50px" src="https://github.com/BishtAman/BishtAman/blob/main/email.png"></a>
 <a href="https://twitter.com/AmanBis68156523"><img width="50px" alt="twitter" height="50px" src="https://github.com/BishtAman/BishtAman/blob/main/icons8-twitter-480.png"></a>
