@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 <h1 align="center">Let's Connect 🔗</h1>
 <br>
 
-<p align="center"> 
-    .
+<div style="display: flex; justify-content:center;"> 
+    
 <a href="mailto:uk.amanbisht@gmail.com"><img width="50px" alt="mail" height="50px" src="https://github.com/BishtAman/BishtAman/blob/main/email.png"></a>
 <a href="https://twitter.com/AmanBis68156523"><img width="50px" alt="twitter" height="50px" src="https://github.com/BishtAman/BishtAman/blob/main/icons8-twitter-480.png"></a>
 <a href="https://github.com/BishtAman"> <img width="60px" alt="GITHUB" height="50px" src="https://github.com/BishtAman/BishtAman/blob/main/githubappicon.jpg"></a>
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <a href="https://medium.com/@amanbisht.dev"><img width="50px" alt="MEDIUM" height="50px" src="https://github.com/BishtAman/BishtAman/blob/main/medium%20(1).png"></a>
 <a href="https://hashnode.com/@AmanBisht25"><img width="50px" alt="hashnode" height="50px" src="https://github.com/BishtAman/BishtAman/blob/main/hashnode-removebg-preview.png"></a>
     <a href="https://amanbisht-dev.netlify.app"><img width="150px" alt="website" height="50px" src="https://github.com/BishtAman/BishtAman/blob/main/twitter.comAmanBis68156523%20(2).png"></a>
-</p>
+</div>
 
 <br><br>
 <hr>
