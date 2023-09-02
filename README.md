@@ -9,11 +9,11 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I'm Interested in Web Development
+- 🔭 I'm a Frontend Web Developer
 - 🌱 Currently learning React
 - 🚀 I love writing blogs on **Medium** and **Hashnode**, I also share my knowledge on **Twitter**
-- 📜 Currently pursuing **Bachelor's of Computer Applications** from **University of Engineering and Technology Roorkee**
-- 😄 Pronouns: He/Him
+- 📜 Web3 Enthusiast
+- 😄 Happy Soul
 - ⚡ Fun fact about me: *I love interacting with people*
 <br><br>
 
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/aman-bisht-15b046239/"><img width="50px" alt="linkedin" height="50px" src="https://github.com/BishtAman/BishtAman/blob/main/linkedin.png"></a>
 <a href="https://medium.com/@amanbisht.dev"><img width="50px" alt="MEDIUM" height="50px" src="https://github.com/BishtAman/BishtAman/blob/main/medium%20(1).png"></a>
 <a href="https://hashnode.com/@AmanBisht25"><img width="50px" alt="hashnode" height="50px" src="https://github.com/BishtAman/BishtAman/blob/main/hashnode-removebg-preview.png"></a>
-    <a href="https://amanbisht-dev.netlify.app"><img width="150px" alt="website" height="50px" src="https://github.com/BishtAman/BishtAman/blob/main/twitter.comAmanBis68156523%20(2).png"></a>
+    <a href="https://bishtaman.vercel.app"><img width="150px" alt="website" height="50px" src="https://github.com/BishtAman/BishtAman/blob/main/twitter.comAmanBis68156523%20(2).png"></a>
 </div>
 
 <br><br>
