@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **AI & React**
 
-- 👨‍💻 All of my projects are available at [amanbisht.vercel.app](amanbisht.vercel.app)
+- 👨‍💻 All of my projects are available at [amanbisht.vercel.app](https://amanbisht.vercel.app)
 
 - 📝 I regularly write articles on [https://hashnode.com/@AmanBisht25](https://hashnode.com/@AmanBisht25)
 
