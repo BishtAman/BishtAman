@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aman Bisht</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<img src="https://github.com/BishtAman/BishtAman/blob/main/Untitled%20design%20(1).gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bishtaman&label=Profile%20views&color=0e75b6&style=flat" alt="bishtaman" /> </p>
 
 <p align="left"> <a href="https://twitter.com/cosmicsoul_js" target="blank"><img src="https://img.shields.io/twitter/follow/cosmicsoul_js?logo=twitter&style=for-the-badge" alt="cosmicsoul_js" /></a> </p>
