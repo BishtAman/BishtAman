@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/cosmicsoul_js" target="blank"><img src="https://img.shields.io/twitter/follow/cosmicsoul_js?logo=twitter&style=for-the-badge" alt="cosmicsoul_js" /></a> </p>
 
-- 🔭 I’m currently working on [A website for MCU Character Collection](https://github.com/BishtAman/marvelous)
+- 🔭 I’m currently working on [MCU Character Collection](https://github.com/BishtAman/marvelous)
 
 - 🌱 I’m currently learning **AI & React**
 
 - 👨‍💻 All of my projects are available at [amanbisht.vercel.app](https://amanbisht.vercel.app)
 
-- 📝 I regularly write articles on [https://hashnode.com/@AmanBisht25](https://hashnode.com/@AmanBisht25)
+- 📝 I regularly write articles on [HASHNODE](https://hashnode.com/@AmanBisht25)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
