@@ -1,96 +1,38 @@
-<div align="center">
-  <img src="https://github.com/BishtAman/BishtAman/blob/main/Untitled%20design%20(1).gif">
-  <hr>
-  <h1> Hi there, friends! 👋 </h1>
+<h1 align="center">Hi 👋, I'm Aman Bisht</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-  <!--
-  **BishtAman/BishtAman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bishtaman&label=Profile%20views&color=0e75b6&style=flat" alt="bishtaman" /> </p>
 
-  Here are some ideas to get you started:
-  -->
+<p align="left"> <a href="https://twitter.com/cosmicsoul_js" target="blank"><img src="https://img.shields.io/twitter/follow/cosmicsoul_js?logo=twitter&style=for-the-badge" alt="cosmicsoul_js" /></a> </p>
 
-  - 🔭 I'm a Frontend Web Developer
-  - 🌱 Currently learning React
-  - 🚀 I love writing blogs on **Medium** and **Hashnode**, and I share my knowledge on **Twitter**
-  - 📜 Web3 Enthusiast
-  - 😄 Happy Soul
-  - ⚡ Fun fact about me: *I love interacting with people*
+- 🔭 I’m currently working on [A website for MCU Character Collection](https://github.com/BishtAman/marvelous)
 
-  <hr>
-  <h1>Let's Connect 🔗</h1>
-  <br>
+- 🌱 I’m currently learning **AI & React**
 
-  <div align="center"> 
-    <a href="mailto:uk.amanbisht@gmail.com"><img width="50px" alt="mail" height="50px" src="https://github.com/BishtAman/BishtAman/blob/main/email.png"></a>
-    <a href="https://twitter.com/AmanBis68156523"><img width="50px" alt="twitter" height="50px" src="https://github.com/BishtAman/BishtAman/blob/main/icons8-twitter-480.png"></a>
-    <a href="https://github.com/BishtAman"> <img width="60px" alt="GITHUB" height="50px" src="https://github.com/BishtAman/BishtAman/blob/main/githubappicon.jpg"></a>
-    <a href="https://www.linkedin.com/in/aman-bisht-15b046239/"><img width="50px" alt="linkedin" height="50px" src="https://github.com/BishtAman/BishtAman/blob/main/linkedin.png"></a>
-    <a href="https://medium.com/@amanbisht.dev"><img width="50px" alt="MEDIUM" height="50px" src="https://github.com/BishtAman/BishtAman/blob/main/medium%20(1).png"></a>
-    <a href="https://hashnode.com/@AmanBisht25"><img width="50px" alt="hashnode" height="50px" src="https://github.com/BishtAman/BishtAman/blob/main/hashnode-removebg-preview.png"></a>
-    <a href="https://bishtaman.vercel.app"><img width="150px" alt="website" height="50px" src="https://github.com/BishtAman/BishtAman/blob/main/twitter.comAmanBis68156523%20(2).png"></a>
-  </div>
+- 👨‍💻 All of my projects are available at [amanbisht.vercel.app](amanbisht.vercel.app)
 
-  <br><br>
-  <hr>
+- 📝 I regularly write articles on [https://hashnode.com/@AmanBisht25](https://hashnode.com/@AmanBisht25)
 
-  <h1 align="center">My Latest Blogs ✒️</h1>
-  <br>
-  <p align="center">
-    <table>
-      <tr>
-        <td><a href="https://medium.com/@amanbisht.dev/tcp-ip-model-54245d46b748">
-          <img width="150px" src="https://github.com/BishtAman/BishtAman/blob/main/OSI%20(1).png" alt="TCP/IP Model">
-        </a></td>
-        <td><a href="https://medium.com/@amanbisht.dev/osi-model-open-systems-interconnection-model-748b521d2669">
-          <img width="150px" src="https://github.com/BishtAman/BishtAman/blob/main/osi.png" alt="OSI Model">
-        </a></td>
-        <td><a href="https://amanbishtcoder.hashnode.dev/introduction-to-blockchain">
-          <img width="150px" src="https://github.com/BishtAman/BishtAman/blob/main/Calculate%20real%20date%20and%20time.png" alt="Introduction to Blockchain">
-        </a></td>
-      </tr>
-    </table>
-  </p>
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-  <br><br>
-  <hr>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/cosmicsoul_js" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cosmicsoul_js" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aman-bisht-15b046239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman-bisht-15b046239" height="30" width="40" /></a>
+<a href="https://codesandbox.com/bishtaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="bishtaman" height="30" width="40" /></a>
+<a href="https://instagram.com/og.amanbisht" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="og.amanbisht" height="30" width="40" /></a>
+<a href="https://hashnode.com/@amanbisht25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@amanbisht25" height="30" width="40" /></a>
+<a href="https://medium.com/@amanbisht.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@amanbisht.dev" height="30" width="40" /></a>
+<a href="/https://hashnode.com/@amanbisht25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://hashnode.com/@amanbisht25" height="30" width="40" /></a>
+</p>
 
-  <h1 align="center">My Tech Stack</h1>
-  <br>
-  <p align="center">
-    <img width="50px" alt="HTML" height="50px" src="https://github.com/BishtAman/BishtAman/blob/main/html.png">
-    <img width="50px" alt="CSS" height="50px" src="https://github.com/BishtAman/BishtAman/blob/main/css%20(1).png ">
-    <img width="50px" alt="Bootstrap" height="50px" src="https://github.com/BishtAman/BishtAman/blob/main/bootstrap.png">
-    <img width="50px" alt="JS" height="50px" src="https://github.com/BishtAman/BishtAman/blob/main/js.png">
-    <img width="50px" alt="NodeJS" height="50px" src="https://github.com/BishtAman/BishtAman/blob/main/nodejs-icon-logo-png-transparent.png">
-    <img width="50px" alt="MongoDB" height="50px" src="https://github.com/BishtAman/BishtAman/blob/main/MongoDB_logo_01.png">
-    <img width="50px" alt="C" height="50px" src="https://github.com/BishtAman/BishtAman/blob/main/letter-c.png">
-    <img width="50px" alt="C++" height="50px" src="https://github.com/BishtAman/BishtAman/blob/main/c-.png">
-  </p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-  <br><br>
-  <hr>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bishtaman&show_icons=true&locale=en&layout=compact" alt="bishtaman" /></p>
 
-  <h1 align="center">Tools</h1>
-  <br>
-  <p align="center">
-    <img width="50px" alt="FIGMA" height="50px" src="https://github.com/BishtAman/BishtAman/blob/main/figma.png">
-    <img width="50px" alt="CANVA" height="50px" src="https://github.com/BishtAman/BishtAman/blob/main/Canva_Logo.png">
-    <img width="60px" alt="GITHUB" height="50px" src="https://github.com/BishtAman/BishtAman/blob/main/githubappicon.jpg">
-    <img width="50px" alt="VS CODE" height="50px" src="https://github.com/BishtAman/BishtAman/blob/main/visual-studio.png">
-  </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bishtaman&show_icons=true&locale=en" alt="bishtaman" /></p>
 
-  <br><br>
-  <h1 align="center">My Github Stats</h1>
-  <br>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=BishtAman&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
-  </p>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BishtAman&theme=radical&title_color=8E2DE2&text_color=fff">
-  </p>
-
-  <br>
-  <hr>
-
-  <h3 align="center">Thank you so much for visiting here! 😊</h3>
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bishtaman&" alt="bishtaman" /></p>
